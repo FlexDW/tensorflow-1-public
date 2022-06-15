@@ -57,6 +57,10 @@ If you find a bug or typo please raise an issue :)
 2. Image Generator with Validation _(C1_W4_Lab_2_image_generator_with_validation.ipynb)_
 3. Compacted Images _(C1_W4_Lab_3_compacted_images.ipynb)_
 
+**Notes**
+
+Certificate: https://coursera.org/share/5ea8f531cb53fe6dadd3ef3fb328a32d
+
 ## C2 - Convolutional Neural Networks in TensorFlow
 
 ## Week 1
@@ -80,7 +84,7 @@ If you find a bug or typo please raise an issue :)
 1. Cats vs. Dogs with Augmentation _(C2_W2_Lab_1_cats_v_dogs_augmentation.ipynb)_
 2. Horses vs. Humans with Augmentation _(C2_W2_Lab_2_horses_v_humans_augmentation.ipynb)_
 
-## Week 3 
+## Week 3
 
 ### Assignment
 
@@ -104,7 +108,7 @@ If you find a bug or typo please raise an issue :)
 
 ## Week 1
 
-### Assignment 
+### Assignment
 
 - Explore the BBC News Archive _(C3W1_Assignment.ipynb)_
 
@@ -116,7 +120,7 @@ If you find a bug or typo please raise an issue :)
 
 ## Week 2
 
-### Assignment 
+### Assignment
 
 - Categorizing the BBC News Archive _(C3W2_Assignment.ipynb)_
 
@@ -128,7 +132,7 @@ If you find a bug or typo please raise an issue :)
 
 ## Week 3
 
-### Assignment 
+### Assignment
 
 - Exploring Overfitting in NLP _(C3W3_Assignment.ipynb)_
 
@@ -167,7 +171,7 @@ If you find a bug or typo please raise an issue :)
 
 ## Week 2
 
-### Assignment  
+### Assignment
 
 - Predict with a DNN _(C4W2_Assignment.ipynb)_
 
@@ -199,3 +203,4 @@ If you find a bug or typo please raise an issue :)
 1. Long Short-Term Memory (LSTM) _(C4_W4_Lab_1_LSTM.ipynb)_
 2. Sunspots _(C4_W4_Lab_2_Sunspots.ipynb)_
 3. Sunspots - DNN Only _(C4_W4_Lab_3_DNN_only.ipynb)_
+
