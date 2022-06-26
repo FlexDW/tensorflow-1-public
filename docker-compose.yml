@@ -1,0 +1,17 @@
+version: '3'
+services:
+  tensorflow-coursera:
+    build:
+      context: './'
+      dockerfile: './Dockerfile'
+    ports:
+      - 8888:8888
+    environment:
+      - COURSE_ROOT=/tf/tf-intro-coursera
+    volumes:
+      - ./C1:/tf/tf-intro-coursera/C1
+      - ./C2:/tf/tf-intro-coursera/C2
+      - ./C3:/tf/tf-intro-coursera/C3
+      - ./C4:/tf/tf-intro-coursera/C4
+      - ./data:/tf/tf-intro-coursera/data
+      - ./my-notebooks:/tf/my-notebooks
